@@ -4,4 +4,4 @@ This is a Bank Management Programme
 
 Language :- C++
 
-System :- Successfully tetsted on Ubuntu 18.04
+System :- Successfully tested on Ubuntu 18.04
